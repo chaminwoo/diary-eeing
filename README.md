@@ -1,16 +1,7 @@
 # diary
 
-A new Flutter project.
+20623 진로 과제 프로젝트 "선택지 일기"
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 할일
+달력에서 날짜 누르면 bottomsheet 뜨고 거기서 조회,작성,삭제,수정 가능하게 만들기
+shared_preferences로 로그인/로그아웃, 일기 저장/조회 만들기
